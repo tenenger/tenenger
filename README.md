@@ -26,21 +26,19 @@
 #### 💳 Computer Specialist in Spreadsheet & Database  Level-2<br>
 
 <div align=center><h1>📚 Activity</h1></div>
-<div align=center> 
-  
 </div>
 
 
 
 ### 🏫 Education <br>
 #### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br>
-#### 🥇 Sparta Coding Club 59th, Web Fullstack (2021.12~)<br>
-#### In January, apply for check-in meeting in <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white">  <br><br>
-### Experience <br>
+#### ✍️ Sparta Coding Club 59th, Web Fullstack (2021.12~)<br>
+#### 📅 In January, apply for check-in meeting in <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white">  <br><br>
+### 👓 Experience <br>
 #### 🐞 K-Eco, Management team, Sample sorting, Intern (2017.12~2018.01) <br><br>
 
-### Remarkable <br>
-#### ✨ Military Service, Operation Department, CBRN Officer, (2019.06~2021.06)<br><br>
+### ✨ Remarkable <br>
+#### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.06~2021.06)<br><br>
 
 ![tenenger's github stats](https://github-readme-stats.vercel.app/api?username=tenenger&show_icons=true)
 [![tenenger's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tenenger&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tenenger)
