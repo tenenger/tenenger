@@ -4,7 +4,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF8800?style=flat&logoColor=white)](https://2mojurmoyang.tistory.com/)
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger">
-#### 💡 I’m currently learning javascript<br>
+#### 💡 I’m currently learning javascript and jquery <br>
 #### 🔥 I'm interested in Developer<br>
 #### 👨‍💻 I'm looking for a job in any form<br><br>
 
