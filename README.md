@@ -40,8 +40,10 @@
 ### ✨ Remarkable <br>
 #### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.06~2021.06)<br><br>
 
-![tenenger's github stats](https://github-readme-stats.vercel.app/api?username=tenenger&show_icons=true)
-[![tenenger's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tenenger&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tenenger)
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tenenger&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenenger&layout=compact&langs_count=8" align = "center"/>
+</p>
 
 <!--
 **tenenger/tenenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
