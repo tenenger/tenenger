@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger">
 #### 💡 I’m currently learning javascript and jquery <br>
-#### 🔥 I'm interested in Developer<br>
+#### 🔥 I'm interested in Web Developer<br>
 #### 👨‍💻 I'm looking for a job in any form<br><br>
 
 <!--내가 보유한 스킬목록-->
@@ -36,7 +36,7 @@
 #### 📅 In January, apply for check-in meeting in <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white">  <br><br>
 ### 👓 Experience <br>
 #### 🐞 K-Eco, Management team, Sample sorting, Intern (2017.12~2018.01) <br>
-#### ✍️ code.camp Pre-camp 11th, Web Front-end (2021.12, 5day)<br><br>
+#### ✍️ code.camp Pre-camp 11th, Web Front-end (2021.12.27~, 5day)<br><br>
 
 ### ✨ Remarkable <br>
 #### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.06~2021.06)<br><br>
