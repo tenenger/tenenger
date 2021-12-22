@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tenenger7125@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF8800?style=flat&logoColor=white)](https://2mojurmoyang.tistory.com/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/56974520-275d-4298-9ce2-0d5cc278db57/deploy-status)](https://app.netlify.com/sites/ldg-portfolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56974520-275d-4298-9ce2-0d5cc278db57/deploy-status)](https://ldg-portfolio.netlify.app)
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger">
