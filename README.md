@@ -6,7 +6,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/56974520-275d-4298-9ce2-0d5cc278db57/deploy-status)](https://ldg-portfolio.netlify.app)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger">
 
-#### 💡 I’m currently learning javascript and jquery <br>
+#### 💡 I’m currently learning mongoDB, Flask <br>
 #### 🔥 I'm interested in Web Developer<br>
 #### 👨‍💻 I'm looking for a job in any form<br><br>
 
