@@ -42,10 +42,9 @@
 
 
 ### 🏫 Education <br>
-#### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br>
 #### ✍️ Sparta Coding Club 59th, Web Fullstack (2021.12~)<br>
-#### ✍️ code.camp Pre-camp 11th, Web Front-end (2021.12.27~, 5day)<br>
-#### 📅 In February, apply for check-in meeting in <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white">  <br><br>
+#### 🎓 code.camp Pre-camp 11th, Web Front-end (2021.12)<br>
+#### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br><br>
 ### 👓 Experience <br>
 #### 🐞 K-Eco, Management team, Sample sorting, Intern (2017.12~2018.01) <br><br>
 
