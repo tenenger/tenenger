@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&Color=white)](https://github.com/tenenger/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/56974520-275d-4298-9ce2-0d5cc278db57/deploy-status)](https://ldg-portfolio.netlify.app)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftenenger&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger">
+<a href="https://www.acmicpc.net/user/tenenger"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger"></a>
 
 #### 💡 I’m currently learning Django, React <br>
 #### 🔥 I'm interested in Web Developer<br>
