@@ -43,14 +43,14 @@
 
 
 ### 🏫 Education <br>
-#### ✍️ Sparta Coding Club 59th, Web Fullstack (2021.12~)<br>
+#### ✍️ Sparta Coding Club 59th, Web Fullstack (2021.12~2022.1)<br>
 #### 🎓 code.camp Pre-camp 11th, Web Front-end (2021.12)<br>
 #### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br><br>
 ### 👓 Experience <br>
 #### 🐞 K-Eco, Management team, Sample sorting, Intern (2017.12~2018.01) <br><br>
 
 ### ✨ Remarkable <br>
-#### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.06~2021.06)<br><br>
+#### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.03~2021.06)<br><br>
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tenenger&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
