@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftenenger&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://www.acmicpc.net/user/tenenger"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger"></a>
 
-#### 💡 I’m currently learning React, Django <br>
+#### 💡 I’m currently learning React <br>
 #### 🔥 I'm interested in Web Developer<br>
 #### 👨‍💻 I'm working at Foreign Language College of Korea<br><br>
 
@@ -41,7 +41,7 @@
 #### 🎓 Sparta Coding Club 59th, Web Fullstack (2021.12~2022.1)<br>
 #### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br><br>
 ### 👓 Experience <br>
-#### 👨‍💻 Foreign Language College of Korea, IT Development team, Web Development / Civil Service, Coordinator (2022.4~)
+#### 👨‍💻 Foreign Language College of Korea, IT Development team, Web Development & Civil Service, Coordinator (2022.4~)
 #### 🐞 K-Eco, Management team, Sample sorting, Intern (2017.12~2018.01) <br><br>
 
 ### ✨ Remarkable <br>
