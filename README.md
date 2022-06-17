@@ -37,8 +37,6 @@
 
 
 ### 🏫 Education <br>
-#### 🎓 Megabyte School Fintech Service Developer Pre-course, Web Front-end (2022.2~2022.3)<br>
-#### 🎓 Sparta Coding Club 59th, Web Fullstack (2021.12~2022.1)<br>
 #### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br><br>
 ### 👓 Experience <br>
 #### 👨‍💻 Foreign Language College of Korea, IT Development team, Web Development & Civil Service, Coordinator (2022.4~)
